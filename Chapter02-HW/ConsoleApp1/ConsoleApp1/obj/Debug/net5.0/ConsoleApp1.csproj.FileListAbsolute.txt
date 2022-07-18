@@ -1,0 +1,16 @@
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter02-HW\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll

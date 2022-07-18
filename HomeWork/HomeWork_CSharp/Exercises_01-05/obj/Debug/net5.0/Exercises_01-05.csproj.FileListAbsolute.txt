@@ -1,0 +1,16 @@
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\bin\Debug\net5.0\Exercises_01-05.exe
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\bin\Debug\net5.0\Exercises_01-05.deps.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\bin\Debug\net5.0\Exercises_01-05.runtimeconfig.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\bin\Debug\net5.0\Exercises_01-05.runtimeconfig.dev.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\bin\Debug\net5.0\Exercises_01-05.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\bin\Debug\net5.0\Exercises_01-05.pdb
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.AssemblyInfo.cs
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\refint\Exercises_01-05.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.pdb
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\Exercises_01-05.genruntimeconfig.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\HomeWork\HomeWork_CSharp\Exercises_01-05\obj\Debug\net5.0\ref\Exercises_01-05.dll

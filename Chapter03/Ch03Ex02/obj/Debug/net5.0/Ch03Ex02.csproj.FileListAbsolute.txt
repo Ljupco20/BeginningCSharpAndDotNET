@@ -1,0 +1,16 @@
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\bin\Debug\net5.0\Ch03Ex02.exe
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\bin\Debug\net5.0\Ch03Ex02.deps.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\bin\Debug\net5.0\Ch03Ex02.runtimeconfig.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\bin\Debug\net5.0\Ch03Ex02.runtimeconfig.dev.json
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\bin\Debug\net5.0\Ch03Ex02.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\bin\Debug\net5.0\Ch03Ex02.pdb
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.AssemblyInfo.cs
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\refint\Ch03Ex02.dll
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.pdb
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\Ch03Ex02.genruntimeconfig.cache
+D:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex02\obj\Debug\net5.0\ref\Ch03Ex02.dll
