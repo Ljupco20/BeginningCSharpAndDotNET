@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\bin\Debug\net6.0\Ch_04_ex_03.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\bin\Debug\net6.0\Ch_04_ex_03.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\bin\Debug\net6.0\Ch_04_ex_03.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\bin\Debug\net6.0\Ch_04_ex_03.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\bin\Debug\net6.0\Ch_04_ex_03.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\refint\Ch_04_ex_03.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\Ch_04_ex_03.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter04\Ch_04_ex_03\obj\Debug\net6.0\ref\Ch_04_ex_03.dll
