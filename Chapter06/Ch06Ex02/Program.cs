@@ -12,13 +12,13 @@ namespace Ch06Ex02
                 if (intArray[i] > maxVal)
                 {
                     maxVal = intArray[i];
-                }
+                } 
             }
             return maxVal;
         }
         static void Main(string[] args)
         {
-            int[] myArray = { 1, 8, 3, 6, 2, 5, 9, 3, 0, 2 };
+           int[] myArray = { 1, 8, 3, 6, 2, 5, 9, 3, 0, 2 };
             int maxVal = MaxValue(myArray);
             Console.WriteLine($"The maximum value in myArray is {maxVal}");
         }
