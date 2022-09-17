@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\bin\Debug\net6.0\Homework_Strings.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\bin\Debug\net6.0\Homework_Strings.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\bin\Debug\net6.0\Homework_Strings.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\bin\Debug\net6.0\Homework_Strings.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\bin\Debug\net6.0\Homework_Strings.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\refint\Homework_Strings.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\Homework_Strings.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\Homework_Strings\obj\Debug\net6.0\ref\Homework_Strings.dll

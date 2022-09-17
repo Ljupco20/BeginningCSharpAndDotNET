@@ -1,0 +1,16 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.runtimeconfig.dev.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\refint\ExchangingData.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ref\ExchangingData.dll
