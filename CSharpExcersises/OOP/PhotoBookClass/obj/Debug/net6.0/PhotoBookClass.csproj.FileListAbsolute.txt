@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\refint\PhotoBookClass.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\PhotoBookClass\obj\Debug\net6.0\ref\PhotoBookClass.dll

@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\refint\ConstructorsAndDestructors.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\ConstructorsAndDestructors\obj\Debug\net6.0\ref\ConstructorsAndDestructors.dll

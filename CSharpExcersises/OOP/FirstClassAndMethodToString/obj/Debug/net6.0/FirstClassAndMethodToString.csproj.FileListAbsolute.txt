@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\refint\FirstClassAndMethodToString.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\FirstClassAndMethodToString\obj\Debug\net6.0\ref\FirstClassAndMethodToString.dll
