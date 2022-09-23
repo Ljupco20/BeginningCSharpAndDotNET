@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\refint\AbstractClasses.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\OOP\AbstractClasses\obj\Debug\net6.0\ref\AbstractClasses.dll
