@@ -1,0 +1,16 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.runtimeconfig.dev.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\refint\Ch09Ex03.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09Ex03\obj\Debug\net5.0\ref\Ch09Ex03.dll

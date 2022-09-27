@@ -1,0 +1,12 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\refint\Ch09ClassLib.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\ref\Ch09ClassLib.dll
