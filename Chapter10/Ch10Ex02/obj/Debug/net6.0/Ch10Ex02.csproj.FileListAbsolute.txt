@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\bin\Debug\net6.0\Ch10Ex02.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\refint\Ch10Ex02.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\Ch10Ex02.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter10\Ch10Ex02\obj\Debug\net6.0\ref\Ch10Ex02.dll
