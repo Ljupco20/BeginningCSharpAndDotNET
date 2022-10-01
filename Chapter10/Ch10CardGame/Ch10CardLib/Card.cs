@@ -21,9 +21,7 @@ namespace Ch10CardLib
             rank = newRank;
         }
 
-        public void ToString()
-        {
-            throw new System.NotImplementedException();
-        }
+        public override string ToString() => "The " + rank + " of " + suit + "s";
+        
     }
 }
