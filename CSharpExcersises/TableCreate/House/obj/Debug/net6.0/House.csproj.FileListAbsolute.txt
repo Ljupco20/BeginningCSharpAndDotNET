@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\bin\Debug\net6.0\House.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\bin\Debug\net6.0\House.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\bin\Debug\net6.0\House.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\bin\Debug\net6.0\House.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\bin\Debug\net6.0\House.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\refint\House.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\House.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\House\obj\Debug\net6.0\ref\House.dll

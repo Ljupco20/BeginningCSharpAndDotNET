@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\bin\Debug\net6.0\Tables.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\bin\Debug\net6.0\Tables.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\bin\Debug\net6.0\Tables.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\bin\Debug\net6.0\Tables.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\bin\Debug\net6.0\Tables.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\refint\Tables.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\Tables.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\CSharpExcersises\TableCreate\ArrayOfObjects\obj\Debug\net6.0\ref\Tables.dll

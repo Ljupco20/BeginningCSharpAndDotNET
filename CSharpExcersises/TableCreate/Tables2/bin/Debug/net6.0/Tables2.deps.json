@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tables2/1.0.0": {
+        "dependencies": {
+          "Tables": "1.0.0"
+        },
+        "runtime": {
+          "Tables2.dll": {}
+        }
+      },
+      "Tables/1.0.0": {
+        "runtime": {
+          "Tables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tables2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
