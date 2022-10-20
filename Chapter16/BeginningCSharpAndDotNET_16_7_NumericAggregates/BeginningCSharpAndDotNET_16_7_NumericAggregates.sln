@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginningCSharpAndDotNET_16_7_NumericAggregates", "BeginningCSharpAndDotNET_16_7_NumericAggregates.csproj", "{549085DD-43CD-4DAC-BE1B-2D7EE33B849A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549085DD-43CD-4DAC-BE1B-2D7EE33B849A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549085DD-43CD-4DAC-BE1B-2D7EE33B849A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549085DD-43CD-4DAC-BE1B-2D7EE33B849A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549085DD-43CD-4DAC-BE1B-2D7EE33B849A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A747C65F-D7B3-4E7B-8382-47EB12459715}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\refint\LargeNumberQuery.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\ref\LargeNumberQuery.dll
