@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BeginCSharpNET_16_11_JoinQuery/1.0.0": {
+        "runtime": {
+          "BeginCSharpNET_16_11_JoinQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeginCSharpNET_16_11_JoinQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

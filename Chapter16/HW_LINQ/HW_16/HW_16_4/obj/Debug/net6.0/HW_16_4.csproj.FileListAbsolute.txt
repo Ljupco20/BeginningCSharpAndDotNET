@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\bin\Debug\net6.0\HW_16_4.exe
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\bin\Debug\net6.0\HW_16_4.deps.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\bin\Debug\net6.0\HW_16_4.runtimeconfig.json
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\bin\Debug\net6.0\HW_16_4.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\bin\Debug\net6.0\HW_16_4.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.AssemblyInfo.cs
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\refint\HW_16_4.dll
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.pdb
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\HW_16_4.genruntimeconfig.cache
+D:\W_REPOSITORIES\BeginningCSharpAndDotNET\Chapter16\HW_LINQ\HW_16\HW_16_4\obj\Debug\net6.0\ref\HW_16_4.dll

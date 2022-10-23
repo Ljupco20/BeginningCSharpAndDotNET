@@ -1,5 +1,6 @@
 ﻿
 using System.Linq;
+using System.Security.Cryptography;
 using static System.Console;
 namespace BeginCSharpNET_16_8_SelectDistinctQuery
 {
@@ -30,7 +31,14 @@ namespace BeginCSharpNET_16_8_SelectDistinctQuery
         new Customer { ID="T", City="Lima", Country="Peru",Region="South America", Sales=2002 }
         };
             var queryRes = customers.Select(c => c.Region).Distinct();
-            foreach(var item in queryRes)
+            var queryRes1 =
+                (from c in customers
+                 orderby c.Region
+                 select c.Region);
+
+
+
+            foreach (var item in queryRes)
             {
                 WriteLine(item);
             }
